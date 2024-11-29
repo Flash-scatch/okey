@@ -103,7 +103,7 @@ namespace UsageRecordApp
 
             Console.WriteLine($"| {"Підсумок",14} | {totalPlannedHours,14:F2} | {totalActualHours,14:F2} | {totalDeviationInHours,14:F2} | {totalDeviationInPercent / records.Length,14:F2} |");
             Console.WriteLine("+----------------+----------------+----------------+----------------+----------------+");
-			Console.WriteLine("Good day, isn't today?Yes of course");
+			Console.WriteLine("Good day, isn't today?");
         }
     }
 }
