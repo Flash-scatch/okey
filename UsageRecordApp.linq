@@ -70,7 +70,7 @@ namespace UsageRecordApp
             return value;
         }
 
-        // Метод для виведення таблиці
+        
         static void PrintTable(UsageRecord[] records)
         {
             Console.WriteLine("\n+----------------+----------------+----------------+----------------+----------------+");
